@@ -6,6 +6,7 @@ package municipalidad;
 *Los metodos agrega(), alFinal(), datoActual() y remueve() no cambian la posicion actual de la lista
 */
 
+/*
 public class MiLista 
 {
 	//recibe un objeto y lo almacena al final de la coleccion
@@ -42,6 +43,5 @@ public class MiLista
 	{
 		return null;
 	}
-	
-	
+*/
 }

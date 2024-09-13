@@ -4,13 +4,14 @@ import java.util.ArrayList;
 
 public class Parquimetro 
 {
+/*
 	private String id;
 	private String nombreCuadra;
 	private String sectorCiudad;
 	private int ganancias;
 	private ArrayList<VehiculoEstacionado> vehiculosEstacionados;
 	
-	
+*/
 	public boolean agregarVehiculoEstacionado(String patente, String horaLlegada)
 	{
 		for (VehiculoEstacionado vehiculo : vehiculosEstacionados)
@@ -23,6 +24,7 @@ public class Parquimetro
 		return true;
 	}
 	
+/*
 	public String getId() {
         return id;
     }
@@ -42,5 +44,5 @@ public class Parquimetro
     public ArrayList<VehiculoEstacionado> getVehiculosEstacionados() {
         return vehiculosEstacionados;
     }
-    
+*/
 }

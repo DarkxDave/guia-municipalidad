@@ -38,5 +38,6 @@ public class VehiculoEstacionado {
 	{
 		this.montoACobrar = montoACobrar;
 	}
+	
 }
 
